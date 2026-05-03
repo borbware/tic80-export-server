@@ -9,8 +9,11 @@ const RESOURCE_DIR = '/resources/';
 const FILE_EXTENSIONS = 
 {
 	winlua: '.exe',
+	win: '.exe',
 	linuxlua: '',
+	linux: '',
 	maclua: '',
+	mac: '',
 
 };
 
